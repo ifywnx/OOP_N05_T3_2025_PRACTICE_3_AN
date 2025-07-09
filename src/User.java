@@ -8,6 +8,7 @@ public class User{
     public User(){
 
     }
+    
     public String setTen(String ten){
         Ten = ten;
         return Ten;
